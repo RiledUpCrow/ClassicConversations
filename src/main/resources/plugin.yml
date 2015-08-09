@@ -1,0 +1,6 @@
+name: BetonQuestClassicConversations
+main: pl.betoncraft.bqcc.ClassicConv
+description: Classic conversation output or BetonQuest
+authors: [Co0sh]
+depend: [BetonQuest]
+version: 1.0
